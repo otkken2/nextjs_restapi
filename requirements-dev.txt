@@ -1,6 +1,5 @@
 asgiref==3.2.10
-backports.zoneinfo==0.2.1
-certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_0ek9yztvu3/croot/certifi_1665076692562/work/certifi
+certifi==2020.12.5
 dj-database-url==0.5.0
 dj-static==0.0.6
 Django==3.1
@@ -9,8 +8,6 @@ django-templated-mail==1.1.1
 djangorestframework==3.11.1
 djangorestframework-simplejwt==4.6.0
 djoser==2.0.3
-gunicorn @ file:///opt/concourse/worker/volumes/live/f958ac2d-63e5-4751-6df7-f751b636b35e/volume/gunicorn_1617120640046/work
-psycopg2 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_973rh8dnaq/croots/recipe/psycopg2_1662147652256/work
 PyJWT==2.0.0
 python-decouple==3.3
 pytz==2020.5
